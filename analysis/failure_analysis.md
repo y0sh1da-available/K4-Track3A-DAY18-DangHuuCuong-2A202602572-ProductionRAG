@@ -85,3 +85,4 @@
 1. **HyDE (Hypothetical Document Embeddings) & Query Rewriter:** Tự động mở rộng các câu hỏi ngắn và câu hỏi thời gian thành các truy vấn chứa bối cảnh hiện hành của doanh nghiệp.
 2. **Tabular & Numeric Metadata Indexing:** Bóc tách các bảng biểu số liệu (phụ cấp, hạn mức laptop, thâm niên) thành định dạng có cấu trúc để kết hợp Text-to-SQL / Hybrid Filtering thay vì chỉ dựa vào text search thô.
 3. **Parent Document Retrieval Integration:** Cấu hình chuẩn hóa pipeline trả về Parent Chunk (2048 token) cho LLM đọc bối cảnh toàn diện thay vì chỉ cấp Child Chunk (256 token).
+
